@@ -1,0 +1,16 @@
+PODS:
+  - HQYNetWorking (0.1.0)
+
+DEPENDENCIES:
+  - HQYNetWorking (from `Lib/HQYNetWorking`)
+
+EXTERNAL SOURCES:
+  HQYNetWorking:
+    :path: Lib/HQYNetWorking
+
+SPEC CHECKSUMS:
+  HQYNetWorking: ed755b2be0de220fe8d3407597341f2855cb15a9
+
+PODFILE CHECKSUM: 13d21ca7b14ec353a59d0489935bc6b7b2af85f9
+
+COCOAPODS: 1.5.3
